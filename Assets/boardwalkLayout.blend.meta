@@ -9,19 +9,34 @@ ModelImporter:
     100002: MapPlane
     100004: Street_Layout
     100006: SatMap
+    100008: B_Baci
+    100010: B_Luce
+    100012: Center_Foundation
     400000: //RootNode
     400002: MapPlane
     400004: Street_Layout
     400006: SatMap
+    400008: B_Baci
+    400010: B_Luce
+    400012: Center_Foundation
     2300000: MapPlane
     2300002: Street_Layout
     2300004: SatMap
+    2300006: B_Baci
+    2300008: B_Luce
+    2300010: Center_Foundation
     3300000: MapPlane
     3300002: Street_Layout
     3300004: SatMap
+    3300006: B_Baci
+    3300008: B_Luce
+    3300010: Center_Foundation
     4300000: Street_Layout
     4300002: MapPlane
     4300004: SatMap
+    4300006: B_Baci
+    4300008: B_Luce
+    4300010: Center_Foundation
     7400000: Default Take
     9500000: //RootNode
   materials:

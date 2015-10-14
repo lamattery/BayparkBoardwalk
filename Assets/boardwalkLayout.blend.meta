@@ -12,6 +12,11 @@ ModelImporter:
     100008: B_Baci
     100010: B_Luce
     100012: Center_Foundation
+    100014: B_Block
+    100016: B_Francos
+    100018: B_House_01
+    100020: Plane
+    100022: B_Buffer
     400000: //RootNode
     400002: MapPlane
     400004: Street_Layout
@@ -19,24 +24,44 @@ ModelImporter:
     400008: B_Baci
     400010: B_Luce
     400012: Center_Foundation
+    400014: B_Block
+    400016: B_Francos
+    400018: B_House_01
+    400020: Plane
+    400022: B_Buffer
     2300000: MapPlane
     2300002: Street_Layout
     2300004: SatMap
     2300006: B_Baci
     2300008: B_Luce
     2300010: Center_Foundation
+    2300012: B_Block
+    2300014: B_Francos
+    2300016: B_House_01
+    2300018: Plane
+    2300020: B_Buffer
     3300000: MapPlane
     3300002: Street_Layout
     3300004: SatMap
     3300006: B_Baci
     3300008: B_Luce
     3300010: Center_Foundation
+    3300012: B_Block
+    3300014: B_Francos
+    3300016: B_House_01
+    3300018: Plane
+    3300020: B_Buffer
     4300000: Street_Layout
     4300002: MapPlane
     4300004: SatMap
     4300006: B_Baci
     4300008: B_Luce
     4300010: Center_Foundation
+    4300012: B_Francos
+    4300014: B_House_01
+    4300016: B_Block
+    4300018: Plane
+    4300020: B_Buffer
     7400000: Default Take
     9500000: //RootNode
   materials:

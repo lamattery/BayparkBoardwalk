@@ -17,6 +17,7 @@ ModelImporter:
     100018: B_House_01
     100020: Plane
     100022: B_Buffer
+    100024: Buffer
     400000: //RootNode
     400002: MapPlane
     400004: Street_Layout
@@ -29,6 +30,7 @@ ModelImporter:
     400018: B_House_01
     400020: Plane
     400022: B_Buffer
+    400024: Buffer
     2300000: MapPlane
     2300002: Street_Layout
     2300004: SatMap
@@ -40,6 +42,7 @@ ModelImporter:
     2300016: B_House_01
     2300018: Plane
     2300020: B_Buffer
+    2300022: Buffer
     3300000: MapPlane
     3300002: Street_Layout
     3300004: SatMap
@@ -51,6 +54,7 @@ ModelImporter:
     3300016: B_House_01
     3300018: Plane
     3300020: B_Buffer
+    3300022: Buffer
     4300000: Street_Layout
     4300002: MapPlane
     4300004: SatMap
@@ -62,6 +66,7 @@ ModelImporter:
     4300016: B_Block
     4300018: Plane
     4300020: B_Buffer
+    4300022: Buffer
     7400000: Default Take
     9500000: //RootNode
   materials:

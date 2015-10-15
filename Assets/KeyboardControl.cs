@@ -11,7 +11,7 @@ public class KeyboardControl : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 	    if(Input.GetKeyDown(KeyCode.P)) {
-            Application.CaptureScreenshot("luceCorner.png");
+            Application.CaptureScreenshot("luceCorner.png", 4);
         }
 	}
 }

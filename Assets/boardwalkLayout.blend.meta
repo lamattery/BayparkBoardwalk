@@ -20,6 +20,11 @@ ModelImporter:
     100024: Buffer
     100026: Plane_001
     100028: Plane_002
+    100030: Window_Boolean_Cutout
+    100032: B_Luce_Window_1
+    100034: B_Luce_Window_001
+    100036: B_Luce_Window_002
+    100038: B_Luce_Window_003
     400000: //RootNode
     400002: MapPlane
     400004: Street_Layout
@@ -35,6 +40,11 @@ ModelImporter:
     400024: Buffer
     400026: Plane_001
     400028: Plane_002
+    400030: Window_Boolean_Cutout
+    400032: B_Luce_Window_1
+    400034: B_Luce_Window_001
+    400036: B_Luce_Window_002
+    400038: B_Luce_Window_003
     2300000: MapPlane
     2300002: Street_Layout
     2300004: SatMap
@@ -49,6 +59,11 @@ ModelImporter:
     2300022: Buffer
     2300024: Plane_001
     2300026: Plane_002
+    2300028: Window_Boolean_Cutout
+    2300030: B_Luce_Window_1
+    2300032: B_Luce_Window_001
+    2300034: B_Luce_Window_002
+    2300036: B_Luce_Window_003
     3300000: MapPlane
     3300002: Street_Layout
     3300004: SatMap
@@ -63,6 +78,11 @@ ModelImporter:
     3300022: Buffer
     3300024: Plane_001
     3300026: Plane_002
+    3300028: Window_Boolean_Cutout
+    3300030: B_Luce_Window_1
+    3300032: B_Luce_Window_001
+    3300034: B_Luce_Window_002
+    3300036: B_Luce_Window_003
     4300000: Street_Layout
     4300002: MapPlane
     4300004: SatMap
@@ -77,6 +97,11 @@ ModelImporter:
     4300022: Buffer
     4300024: Plane_001
     4300026: Plane_002
+    4300028: Window_Boolean_Cutout
+    4300030: B_Luce_Window_1
+    4300032: B_Luce_Window_002
+    4300034: B_Luce_Window_001
+    4300036: B_Luce_Window_003
     7400000: Default Take
     9500000: //RootNode
   materials:

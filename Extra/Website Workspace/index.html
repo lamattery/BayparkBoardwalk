@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+    
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>GETTING STARTED WITH BRACKETS</title>
+        <meta name="description" content="An interactive getting started guide for Brackets.">
+        <link rel="stylesheet" href="main.css">
+    </head>
+    <body>
+        
+        
+<script type="text/javascript">
+
+    window.onload = function(){
+
+        //Setup
+        window.boardwalkToggled = true;
+    };
+
+    
+    function toggleBoardwalk()
+    {
+        var boardwalkImg = document.getElementById("boardwalkImg");
+        
+        var cfTitle = document.getElementById("cfTitle");
+        
+        var cfToggleBoardwalk = document.getElementById("cfToggleBoardwalk");
+        
+        var boardwalkTitleImg =  document.getElementById("boardwalkTitleImg");
+        
+        var morenaTitleImg =  document.getElementById("morenaTitleImg");
+        
+        if(window.boardwalkToggled)
+        {
+            window.boardwalkToggled = false;
+            boardwalkImg.style.opacity = 0;
+            boardwalkTitleImg.style.opacity = 0;
+            morenaTitleImg.style.opacity = 1;
+        
+        } else {
+            window.boardwalkToggled = true;
+            boardwalkImg.style.opacity = 1;
+            boardwalkTitleImg.style.opacity = 1;
+            morenaTitleImg.style.opacity = 0;
+        }
+        
+        
+    }
+    
+    
+    
+    function expandToggleButton()
+    {
+        var cfToggleText = document.getElementById("cfToggleText");
+        
+        cfToggleText.style.opacity=1;
+    }
+    
+    function shrinkToggleButton()
+    {
+        var cfToggleText = document.getElementById("cfToggleText");
+        
+        cfToggleText.style.opacity=0;
+    }
+    
+</script>
+<div id="cf">
+    <img class="bottom" src="http://buildbayparkboardwalk.com/wp-content/uploads/2015/10/BoardwalkOldStreet.png" alt="BoardwalkOldStreet" width="1364" height="540" />  
+    <img id="boardwalkImg" class="top" src="http://buildbayparkboardwalk.com/wp-content/uploads/2015/10/BoardwalkNewStreet.png" alt="BoardwalkNewStreet" width="1364" height="540" />
+
+    <div id="cfTitle">
+        
+        
+            <img id="boardwalkTitleImg" src="http://buildbayparkboardwalk.com/wp-content/uploads/2015/10/BoardwalkTitle.png" alt="BoardwalkTitle" width="400" height="60" />
+        
+        <img id="morenaTitleImg" src="http://buildbayparkboardwalk.com/wp-content/uploads/2015/10/MorenaTitle.png" alt="MorenaTitle" width="400" height="60" style="opacity:0" />
+        
+        
+        <div class="cfToggle" id="cfToggleText" onclick="toggleBoardwalk()" onmouseover="expandToggleButton()" onmouseout="shrinkToggleButton()">
+&nbsp;Morena Blvd today&nbsp;   
+
+        </div>
+   
+    </div>
+
+
+    
+
+
+</div>

@@ -1,0 +1,226 @@
+
+#cf{
+  position:relative;
+margin:0 auto;
+}
+
+
+#cf img{
+    position:absolute;
+    margin: 0 auto;
+    -webkit-transition: all 2s ease-in-out;
+    -moz-transition: all 2s ease-in-out;
+    -o-transition: all 2s ease-in-out;
+    transition: all 2s ease-in-out;
+}
+
+#cfTitle img{
+    position:absolute;
+    left:0px;
+    top:0px;
+}
+
+#cfTitle{
+	position:absolute;
+	margin:0 auto;
+	color: #D2D2D2;
+	font-size: 30px;
+	text-align: center;
+	box-shadow: 3px 3px 5px #222222;
+		left: 30px;
+		top: 10px;
+		background: #0A5794;
+    width:400px;
+   height:60px;
+    
+    -webkit-transition: all 2s ease-in-out;
+    -moz-transition: all 2s ease-in-out;
+    -o-transition: all 2s ease-in-out;
+    transition: all 2s ease-in-out;
+}
+
+
+
+.cfToggle{
+	
+	color: #D2D2D2;
+	font-size: 20px;
+	text-align: center;
+
+    -webkit-transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+    
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+#cfToggleText{
+    margin-top: 65px;
+    opacity: 0;
+}
+
+#cfToggleText:hover{
+	cursor:pointer;
+}
+
+
+/*
+@keyframes cfTitleMove{
+
+	0%{
+		left: 30px;
+		top: 10px;
+		width:200px;
+		height:40px;
+		background: #666633;
+	}
+	
+	25%{
+		left: 30px;
+		top: 10px;
+		width:200px;
+		height:40px;
+		background: #666633;
+	}
+
+	50%{
+		left: 300px;
+		top: 30px;
+		width:400px;
+		height:60px;
+		background: #0A5794;
+	}
+
+	100%{
+		left: 300px;
+		top: 30px;
+		width:400px;
+		height:60px;
+		background: #0A5794;
+	}
+}
+
+ @keyframes cfFadeInOut {
+  0% {
+  opacity:0;
+	}
+15% {
+opacity:0;
+}
+75% {
+opacity:1;
+}
+100% {
+opacity:1;
+}
+}
+
+@keyframes morenaTitleFade{
+
+	0%{
+		opacity:1;
+	}
+
+	20%{
+		opacity:1;
+	}
+
+	28%{
+		opacity:0;
+	}
+
+	100%{
+		opacity:0;
+	}
+}
+
+@keyframes boardwalkTitleFade{
+
+	0%{
+		opacity:0;
+	}
+
+	38%{
+		opacity:0;
+	}
+
+	48%{
+		opacity:1;
+	}
+
+	100%{
+		opacity:1;
+	}
+}
+
+
+
+
+
+#cf img.top {
+animation-name: cfFadeInOut;
+animation-timing-function: ease-in-out;
+animation-iteration-count: infinite;
+animation-duration: 12s;
+animation-direction: alternate;
+-webkit-animation-name: cfFadeInOut;
+-webkit-animation-timing-function: ease-in-out;
+-webkit-animation-iteration-count: infinite;
+-webkit-animation-duration: 12s;
+-webkit-animation-direction: alternate;
+}
+
+#cfTitle img.boardwalkTitle{
+animation-name: boardwalkTitleFade;
+animation-timing-function: ease-in-out;
+animation-iteration-count: infinite;
+animation-duration: 12s;
+animation-direction: alternate;
+-webkit-animation-name: boardwalkTitleFade;
+-webkit-animation-timing-function: ease-in-out;
+-webkit-animation-iteration-count: infinite;
+-webkit-animation-duration: 12s;
+-webkit-animation-direction: alternate;
+}
+
+#cfTitle img.morenaTitle{
+animation-name: morenaTitleFade;
+animation-timing-function: ease-in-out;
+animation-iteration-count: infinite;
+animation-duration: 12s;
+animation-direction: alternate;
+-webkit-animation-name: morenaTitleFade;
+-webkit-animation-timing-function: ease-in-out;
+-webkit-animation-iteration-count: infinite;
+-webkit-animation-duration: 12s;
+-webkit-animation-direction: alternate;
+}
+
+#cfResetButton {
+animation-name: cfFadeInOut;
+animation-timing-function: ease-in-out;
+animation-iteration-count: infinite;
+animation-duration: 12s;
+animation-direction: alternate;
+-webkit-animation-name: cfFadeInOut;
+-webkit-animation-timing-function: ease-in-out;
+-webkit-animation-iteration-count: infinite;
+-webkit-animation-duration: 12s;
+-webkit-animation-direction: alternate;
+}
+
+#cfTitle {
+animation-name: cfTitleMove;
+animation-timing-function: ease-in-out;
+animation-iteration-count: infinite;
+animation-duration: 12s;
+animation-direction: alternate;
+-webkit-animation-name: cfTitleMove;
+-webkit-animation-timing-function: ease-in-out;
+-webkit-animation-iteration-count: infinite;
+-webkit-animation-duration: 12s;
+-webkit-animation-direction: alternate;
+}
+*/

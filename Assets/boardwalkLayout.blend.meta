@@ -25,6 +25,10 @@ ModelImporter:
     100034: B_Luce_Window_001
     100036: B_Luce_Window_002
     100038: B_Luce_Window_003
+    100040: B_Luce_Window_000
+    100042: B_Luce_Window_004
+    100044: B_Luce_SideDoor
+    100046: Luce_Sign_Guide
     400000: //RootNode
     400002: MapPlane
     400004: Street_Layout
@@ -45,6 +49,10 @@ ModelImporter:
     400034: B_Luce_Window_001
     400036: B_Luce_Window_002
     400038: B_Luce_Window_003
+    400040: B_Luce_Window_000
+    400042: B_Luce_Window_004
+    400044: B_Luce_SideDoor
+    400046: Luce_Sign_Guide
     2300000: MapPlane
     2300002: Street_Layout
     2300004: SatMap
@@ -64,6 +72,10 @@ ModelImporter:
     2300032: B_Luce_Window_001
     2300034: B_Luce_Window_002
     2300036: B_Luce_Window_003
+    2300038: B_Luce_Window_000
+    2300040: B_Luce_Window_004
+    2300042: B_Luce_SideDoor
+    2300044: Luce_Sign_Guide
     3300000: MapPlane
     3300002: Street_Layout
     3300004: SatMap
@@ -83,6 +95,10 @@ ModelImporter:
     3300032: B_Luce_Window_001
     3300034: B_Luce_Window_002
     3300036: B_Luce_Window_003
+    3300038: B_Luce_Window_000
+    3300040: B_Luce_Window_004
+    3300042: B_Luce_SideDoor
+    3300044: Luce_Sign_Guide
     4300000: Street_Layout
     4300002: MapPlane
     4300004: SatMap
@@ -102,6 +118,10 @@ ModelImporter:
     4300032: B_Luce_Window_002
     4300034: B_Luce_Window_001
     4300036: B_Luce_Window_003
+    4300038: B_Luce_Window_000
+    4300040: B_Luce_Window_004
+    4300042: B_Luce_SideDoor
+    4300044: Luce_Sign_Guide
     7400000: Default Take
     9500000: //RootNode
   materials:

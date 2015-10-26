@@ -29,6 +29,14 @@ ModelImporter:
     100042: B_Luce_Window_004
     100044: B_Luce_SideDoor
     100046: Luce_Sign_Guide
+    100048: Buffer_001
+    100050: Buffer_002
+    100052: Buffer_003
+    100054: Buffer_004
+    100056: Buffer_005
+    100058: LuceSign_L
+    100060: LuceSign_U
+    100062: West_Buffer
     400000: //RootNode
     400002: MapPlane
     400004: Street_Layout
@@ -53,6 +61,14 @@ ModelImporter:
     400042: B_Luce_Window_004
     400044: B_Luce_SideDoor
     400046: Luce_Sign_Guide
+    400048: Buffer_001
+    400050: Buffer_002
+    400052: Buffer_003
+    400054: Buffer_004
+    400056: Buffer_005
+    400058: LuceSign_L
+    400060: LuceSign_U
+    400062: West_Buffer
     2300000: MapPlane
     2300002: Street_Layout
     2300004: SatMap
@@ -76,6 +92,14 @@ ModelImporter:
     2300040: B_Luce_Window_004
     2300042: B_Luce_SideDoor
     2300044: Luce_Sign_Guide
+    2300046: Buffer_001
+    2300048: Buffer_002
+    2300050: Buffer_003
+    2300052: Buffer_004
+    2300054: Buffer_005
+    2300056: LuceSign_L
+    2300058: LuceSign_U
+    2300060: West_Buffer
     3300000: MapPlane
     3300002: Street_Layout
     3300004: SatMap
@@ -99,6 +123,14 @@ ModelImporter:
     3300040: B_Luce_Window_004
     3300042: B_Luce_SideDoor
     3300044: Luce_Sign_Guide
+    3300046: Buffer_001
+    3300048: Buffer_002
+    3300050: Buffer_003
+    3300052: Buffer_004
+    3300054: Buffer_005
+    3300056: LuceSign_L
+    3300058: LuceSign_U
+    3300060: West_Buffer
     4300000: Street_Layout
     4300002: MapPlane
     4300004: SatMap
@@ -122,6 +154,14 @@ ModelImporter:
     4300040: B_Luce_Window_004
     4300042: B_Luce_SideDoor
     4300044: Luce_Sign_Guide
+    4300046: LuceSign_U
+    4300048: LuceSign_L
+    4300050: Buffer_005
+    4300052: Buffer_004
+    4300054: Buffer_003
+    4300056: Buffer_002
+    4300058: Buffer_001
+    4300060: West_Buffer
     7400000: Default Take
     9500000: //RootNode
   materials:

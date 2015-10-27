@@ -37,6 +37,10 @@ ModelImporter:
     100058: LuceSign_L
     100060: LuceSign_U
     100062: West_Buffer
+    100064: LuceSign_C
+    100066: GP_Layer
+    100068: LuceSign
+    100070: LuceSign_E
     400000: //RootNode
     400002: MapPlane
     400004: Street_Layout
@@ -69,6 +73,10 @@ ModelImporter:
     400058: LuceSign_L
     400060: LuceSign_U
     400062: West_Buffer
+    400064: LuceSign_C
+    400066: GP_Layer
+    400068: LuceSign
+    400070: LuceSign_E
     2300000: MapPlane
     2300002: Street_Layout
     2300004: SatMap
@@ -100,6 +108,10 @@ ModelImporter:
     2300056: LuceSign_L
     2300058: LuceSign_U
     2300060: West_Buffer
+    2300062: LuceSign_C
+    2300064: GP_Layer
+    2300066: LuceSign
+    2300068: LuceSign_E
     3300000: MapPlane
     3300002: Street_Layout
     3300004: SatMap
@@ -131,6 +143,10 @@ ModelImporter:
     3300056: LuceSign_L
     3300058: LuceSign_U
     3300060: West_Buffer
+    3300062: LuceSign_C
+    3300064: GP_Layer
+    3300066: LuceSign
+    3300068: LuceSign_E
     4300000: Street_Layout
     4300002: MapPlane
     4300004: SatMap
@@ -162,6 +178,10 @@ ModelImporter:
     4300056: Buffer_002
     4300058: Buffer_001
     4300060: West_Buffer
+    4300062: LuceSign_C
+    4300064: GP_Layer
+    4300066: LuceSign
+    4300068: LuceSign_E
     7400000: Default Take
     9500000: //RootNode
   materials:

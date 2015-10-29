@@ -41,6 +41,20 @@ ModelImporter:
     100066: GP_Layer
     100068: LuceSign
     100070: LuceSign_E
+    100072: Baci_WindowCutout
+    100074: Cube
+    100076: Cube_001
+    100078: Cube_002
+    100080: Cube_003
+    100082: Cube_004
+    100084: Cube_005
+    100086: Cube_006
+    100088: Cube_007
+    100090: Cube_008
+    100092: Cube_009
+    100094: Baci_WindowTrim_Left
+    100096: Baci_WindowTrim_Right
+    100098: Baci_Awning
     400000: //RootNode
     400002: MapPlane
     400004: Street_Layout
@@ -77,6 +91,20 @@ ModelImporter:
     400066: GP_Layer
     400068: LuceSign
     400070: LuceSign_E
+    400072: Baci_WindowCutout
+    400074: Cube
+    400076: Cube_001
+    400078: Cube_002
+    400080: Cube_003
+    400082: Cube_004
+    400084: Cube_005
+    400086: Cube_006
+    400088: Cube_007
+    400090: Cube_008
+    400092: Cube_009
+    400094: Baci_WindowTrim_Left
+    400096: Baci_WindowTrim_Right
+    400098: Baci_Awning
     2300000: MapPlane
     2300002: Street_Layout
     2300004: SatMap
@@ -112,6 +140,20 @@ ModelImporter:
     2300064: GP_Layer
     2300066: LuceSign
     2300068: LuceSign_E
+    2300070: Baci_WindowCutout
+    2300072: Cube
+    2300074: Cube_001
+    2300076: Cube_002
+    2300078: Cube_003
+    2300080: Cube_004
+    2300082: Cube_005
+    2300084: Cube_006
+    2300086: Cube_007
+    2300088: Cube_008
+    2300090: Cube_009
+    2300092: Baci_WindowTrim_Left
+    2300094: Baci_WindowTrim_Right
+    2300096: Baci_Awning
     3300000: MapPlane
     3300002: Street_Layout
     3300004: SatMap
@@ -147,6 +189,20 @@ ModelImporter:
     3300064: GP_Layer
     3300066: LuceSign
     3300068: LuceSign_E
+    3300070: Baci_WindowCutout
+    3300072: Cube
+    3300074: Cube_001
+    3300076: Cube_002
+    3300078: Cube_003
+    3300080: Cube_004
+    3300082: Cube_005
+    3300084: Cube_006
+    3300086: Cube_007
+    3300088: Cube_008
+    3300090: Cube_009
+    3300092: Baci_WindowTrim_Left
+    3300094: Baci_WindowTrim_Right
+    3300096: Baci_Awning
     4300000: Street_Layout
     4300002: MapPlane
     4300004: SatMap
@@ -182,6 +238,20 @@ ModelImporter:
     4300064: GP_Layer
     4300066: LuceSign
     4300068: LuceSign_E
+    4300070: Cube_009
+    4300072: Cube_008
+    4300074: Cube_007
+    4300076: Cube_006
+    4300078: Cube_005
+    4300080: Cube_004
+    4300082: Cube_003
+    4300084: Cube_002
+    4300086: Cube_001
+    4300088: Cube
+    4300090: Baci_WindowCutout
+    4300092: Baci_WindowTrim_Right
+    4300094: Baci_WindowTrim_Left
+    4300096: Baci_Awning
     7400000: Default Take
     9500000: //RootNode
   materials:

@@ -55,6 +55,8 @@ ModelImporter:
     100094: Baci_WindowTrim_Left
     100096: Baci_WindowTrim_Right
     100098: Baci_Awning
+    100100: WindowMask_000
+    100102: BaciFrills
     400000: //RootNode
     400002: MapPlane
     400004: Street_Layout
@@ -105,6 +107,8 @@ ModelImporter:
     400094: Baci_WindowTrim_Left
     400096: Baci_WindowTrim_Right
     400098: Baci_Awning
+    400100: WindowMask_000
+    400102: BaciFrills
     2300000: MapPlane
     2300002: Street_Layout
     2300004: SatMap
@@ -154,6 +158,8 @@ ModelImporter:
     2300092: Baci_WindowTrim_Left
     2300094: Baci_WindowTrim_Right
     2300096: Baci_Awning
+    2300098: WindowMask_000
+    2300100: BaciFrills
     3300000: MapPlane
     3300002: Street_Layout
     3300004: SatMap
@@ -203,6 +209,8 @@ ModelImporter:
     3300092: Baci_WindowTrim_Left
     3300094: Baci_WindowTrim_Right
     3300096: Baci_Awning
+    3300098: WindowMask_000
+    3300100: BaciFrills
     4300000: Street_Layout
     4300002: MapPlane
     4300004: SatMap
@@ -252,6 +260,8 @@ ModelImporter:
     4300092: Baci_WindowTrim_Right
     4300094: Baci_WindowTrim_Left
     4300096: Baci_Awning
+    4300098: WindowMask_000
+    4300100: BaciFrills
     7400000: Default Take
     9500000: //RootNode
   materials:

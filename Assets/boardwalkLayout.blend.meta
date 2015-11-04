@@ -57,6 +57,18 @@ ModelImporter:
     100098: Baci_Awning
     100100: WindowMask_000
     100102: BaciFrills
+    100104: Baci_Sign_Guide
+    100106: Baci_B
+    100108: C_Block
+    100110: D_Block
+    100112: Standin_SingleStory
+    100114: Standin_SingleStory_001
+    100116: Standin_SingleStory_002
+    100118: Model_DoubleWide
+    100120: Model_SingleWide
+    100122: Model_SingleWide_2
+    100124: Awning_1
+    100126: Awning_2
     400000: //RootNode
     400002: MapPlane
     400004: Street_Layout
@@ -109,6 +121,18 @@ ModelImporter:
     400098: Baci_Awning
     400100: WindowMask_000
     400102: BaciFrills
+    400104: Baci_Sign_Guide
+    400106: Baci_B
+    400108: C_Block
+    400110: D_Block
+    400112: Standin_SingleStory
+    400114: Standin_SingleStory_001
+    400116: Standin_SingleStory_002
+    400118: Model_DoubleWide
+    400120: Model_SingleWide
+    400122: Model_SingleWide_2
+    400124: Awning_1
+    400126: Awning_2
     2300000: MapPlane
     2300002: Street_Layout
     2300004: SatMap
@@ -160,6 +184,18 @@ ModelImporter:
     2300096: Baci_Awning
     2300098: WindowMask_000
     2300100: BaciFrills
+    2300102: Baci_Sign_Guide
+    2300104: Baci_B
+    2300106: C_Block
+    2300108: D_Block
+    2300110: Standin_SingleStory
+    2300112: Standin_SingleStory_001
+    2300114: Standin_SingleStory_002
+    2300116: Model_DoubleWide
+    2300118: Model_SingleWide
+    2300120: Model_SingleWide_2
+    2300122: Awning_1
+    2300124: Awning_2
     3300000: MapPlane
     3300002: Street_Layout
     3300004: SatMap
@@ -211,6 +247,18 @@ ModelImporter:
     3300096: Baci_Awning
     3300098: WindowMask_000
     3300100: BaciFrills
+    3300102: Baci_Sign_Guide
+    3300104: Baci_B
+    3300106: C_Block
+    3300108: D_Block
+    3300110: Standin_SingleStory
+    3300112: Standin_SingleStory_001
+    3300114: Standin_SingleStory_002
+    3300116: Model_DoubleWide
+    3300118: Model_SingleWide
+    3300120: Model_SingleWide_2
+    3300122: Awning_1
+    3300124: Awning_2
     4300000: Street_Layout
     4300002: MapPlane
     4300004: SatMap
@@ -262,6 +310,18 @@ ModelImporter:
     4300096: Baci_Awning
     4300098: WindowMask_000
     4300100: BaciFrills
+    4300102: Baci_Sign_Guide
+    4300104: Baci_B
+    4300106: C_Block
+    4300108: D_Block
+    4300110: Standin_SingleStory_001
+    4300112: Standin_SingleStory
+    4300114: Standin_SingleStory_002
+    4300116: Model_SingleWide_2
+    4300118: Model_SingleWide
+    4300120: Model_DoubleWide
+    4300122: Awning_1
+    4300124: Awning_2
     7400000: Default Take
     9500000: //RootNode
   materials:

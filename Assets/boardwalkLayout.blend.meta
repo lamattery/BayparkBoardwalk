@@ -69,6 +69,11 @@ ModelImporter:
     100122: Model_SingleWide_2
     100124: Awning_1
     100126: Awning_2
+    100128: Awning_3
+    100130: B_Cut
+    100132: BaciSign_B
+    100134: BaciSign_ACI
+    100136: BaciSign_Ristorante
     400000: //RootNode
     400002: MapPlane
     400004: Street_Layout
@@ -133,6 +138,11 @@ ModelImporter:
     400122: Model_SingleWide_2
     400124: Awning_1
     400126: Awning_2
+    400128: Awning_3
+    400130: B_Cut
+    400132: BaciSign_B
+    400134: BaciSign_ACI
+    400136: BaciSign_Ristorante
     2300000: MapPlane
     2300002: Street_Layout
     2300004: SatMap
@@ -196,6 +206,12 @@ ModelImporter:
     2300120: Model_SingleWide_2
     2300122: Awning_1
     2300124: Awning_2
+    2300126: Awning_3
+    2300128: B_Cut
+    2300130: BaciSign_B
+    2300132: BaciSign_ACI
+    2300134: BaciSign_Ristorante
+    2300136: //RootNode
     3300000: MapPlane
     3300002: Street_Layout
     3300004: SatMap
@@ -259,6 +275,12 @@ ModelImporter:
     3300120: Model_SingleWide_2
     3300122: Awning_1
     3300124: Awning_2
+    3300126: Awning_3
+    3300128: B_Cut
+    3300130: BaciSign_B
+    3300132: BaciSign_ACI
+    3300134: BaciSign_Ristorante
+    3300136: //RootNode
     4300000: Street_Layout
     4300002: MapPlane
     4300004: SatMap
@@ -322,6 +344,11 @@ ModelImporter:
     4300120: Model_DoubleWide
     4300122: Awning_1
     4300124: Awning_2
+    4300126: B_Cut
+    4300128: BaciSign_B
+    4300130: Awning_3
+    4300132: BaciSign_Ristorante
+    4300134: BaciSign_ACI
     7400000: Default Take
     9500000: //RootNode
   materials:
